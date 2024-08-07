@@ -83,6 +83,20 @@
       "description": "Venmo, Pay Roommate for Rent",
       "category": "Housing",
       "amount": -975
+    },
+    {
+      "date": "2024-08-08",
+      "description": "ty",
+      "category": "food",
+      "amount": "2",
+      "id": 30
+    },
+    {
+      "date": "2024-08-08",
+      "description": "mpesa",
+      "category": "finance",
+      "amount": "1000",
+      "id": 31
     }
   ]
 }
